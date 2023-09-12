@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github.com/ltb801/ltb801/blob/main/fig/1.gif?raw=true" alt="banner" height="350">
+<img src="https://github.com/ltb801/ltb801/blob/main/fig/ghibli.gif?raw=true" alt="banner" align="left" width="700">
 
 <!--
 **ltb801/ltb801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
