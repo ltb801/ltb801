@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <p align="center">
-  <img src="[your-image-url-here](https://github.com/ltb801/ltb801/blob/main/fig/totoro.gif?raw=true)" alt="banner" width="700">
+  <img src="https://github.com/ltb801/ltb801/blob/main/fig/totoro.gif?raw=true" alt="banner" width="700">
 </p>
 
 <!--
