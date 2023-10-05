@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/ltb801/ltb801/blob/main/fig/totoro.gif?raw=true" alt="banner" width="600">
+  <img src="https://github.com/ltb801/ltb801/blob/main/fig/totoro.gif?raw=true" alt="banner" width="750">
 </p>
 
 <!--
